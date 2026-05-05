@@ -6966,7 +6966,7 @@
       },
       "name": "Josué"
     },
-    "jz": {
+    "jud": {
       "chapters": {
         "1": {
           "1": "Depois da morte de Josué os filhos de Israel consultaram ao Senhor, dizendo: Quem dentre nós subirá primeiro aos cananeus, para pelejar contra eles?",
@@ -9356,7 +9356,7 @@
       },
       "name": "2 Samuel"
     },
-    "1rs": {
+    "1kgs": {
       "chapters": {
         "1": {
           "1": "Ora, o rei Davi era já velho, de idade mui avançada; e por mais que o cobrissem de roupas não se aquecia.",
@@ -10222,7 +10222,7 @@
       },
       "name": "1 Reis"
     },
-    "2rs": {
+    "2kgs": {
       "chapters": {
         "1": {
           "1": "Depois da morte de Acabe, Moabe se rebelou contra Israel.",
@@ -10996,7 +10996,7 @@
       },
       "name": "2 Reis"
     },
-    "1cr": {
+    "1ch": {
       "chapters": {
         "1": {
           "1": "Adão, Sete, Enos,",
@@ -12001,7 +12001,7 @@
       },
       "name": "1 Crônicas"
     },
-    "2cr": {
+    "2ch": {
       "chapters": {
         "1": {
           "1": "Ora, Salomão, filho de Davi, fortaleceu-se no seu reino, e o Senhor seu Deus era com ele, e muito o engrandeceu.",
@@ -12900,7 +12900,7 @@
       },
       "name": "2 Crônicas"
     },
-    "ed": {
+    "ezr": {
       "chapters": {
         "1": {
           "1": "No primeiro ano de Ciro, rei da Pérsia, para que se cumprisse a palavra do Senhor proferida pela boca de Jeremias, despertou o Senhor o espírito de Ciro, rei da Pérsia, de modo que ele fez proclamar por todo o seu reino, de viva voz e também por escrito, este decreto:",
@@ -13834,7 +13834,7 @@
       },
       "name": "Ester"
     },
-    "jó": {
+    "job": {
       "chapters": {
         "1": {
           "1": "Havia um homem na terra de Uz, cujo nome era Jó. Era homem íntegro e reto, que temia a Deus e se desviava do mal.",
@@ -14993,7 +14993,7 @@
       },
       "name": "Jó"
     },
-    "sl": {
+    "ps": {
       "chapters": {
         "1": {
           "1": "Bem-aventurado o homem que não anda segundo o conselho dos ímpios, nem se detém no caminho dos pecadores, nem se assenta na roda dos escarnecedores;",
@@ -17759,7 +17759,7 @@
       },
       "name": "Salmos"
     },
-    "pv": {
+    "prv": {
       "chapters": {
         "1": {
           "1": "Provérbios de Salomão, filho de Davi, rei de Israel:",
@@ -18992,7 +18992,7 @@
       },
       "name": "Eclesiastes"
     },
-    "ct": {
+    "so": {
       "chapters": {
         "1": {
           "1": "O cântico dos cânticos, que é de Salomão.",
@@ -23961,7 +23961,7 @@
       },
       "name": "Daniel"
     },
-    "os": {
+    "ho": {
       "chapters": {
         "1": {
           "1": "A palavra do Senhor, que veio a Oséias, filho de Beeri, nos dias de Uzias, Jotão, Acaz e Ezequias, reis de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel.",
@@ -24533,7 +24533,7 @@
       },
       "name": "Jonas"
     },
-    "mq": {
+    "mi": {
       "chapters": {
         "1": {
           "1": "A palavra do Senhor que veio a Miquéias, morastita, nos dias de Jotão Acaz e Ezequias reis de Judá a qual ele viu sobre Samária e Jerusalém.",
@@ -24715,7 +24715,7 @@
       },
       "name": "Naum"
     },
-    "hc": {
+    "hk": {
       "chapters": {
         "1": {
           "1": "O oráculo que o profeta Habacuque viu.",
@@ -24782,7 +24782,7 @@
       },
       "name": "Habacuque"
     },
-    "sf": {
+    "zp": {
       "chapters": {
         "1": {
           "1": "A palavra do Senhor que veio a Sofonias, filho de Cuche, filho de Gedalias, filho de Amarias, filho de Ezequias, nos dias de Josias, filho de Amom, rei de Judá.",
@@ -24846,7 +24846,7 @@
       },
       "name": "Sofonias"
     },
-    "ag": {
+    "hg": {
       "chapters": {
         "1": {
           "1": "No segundo ano do rei Dario, no sexto mês, no primeiro dia do mês, veio a palavra do Senhor, por intermédio do profeta Ageu, a Zorobabel, governador de Judá, filho de Sealtiel, e a Josué, o sumo sacerdote, filho de Jeozadaque, dizendo:",
@@ -26335,7 +26335,7 @@
       },
       "name": "Mateus"
     },
-    "mc": {
+    "mk": {
       "chapters": {
         "1": {
           "1": "Princípio do evangelho de Jesus Cristo, Filho de Deus.",
@@ -27050,7 +27050,7 @@
       },
       "name": "Marcos"
     },
-    "lc": {
+    "lk": {
       "chapters": {
         "1": {
           "1": "Visto que muitos têm empreendido fazer uma narração coordenada dos fatos que entre nós se realizaram,",
@@ -29179,7 +29179,7 @@
       },
       "name": "João"
     },
-    "atos": {
+    "act": {
       "chapters": {
         "1": {
           "1": "Fiz o primeiro tratado, ó Teófilo, acerca de tudo quanto Jesus começou a fazer e ensinar,",
@@ -31645,7 +31645,7 @@
       },
       "name": "Gálatas"
     },
-    "ef": {
+    "eph": {
       "chapters": {
         "1": {
           "1": "Paulo, apóstolo de Cristo Jesus pela vontade de Deus, aos santos que estão em Éfeso, e fiéis em Cristo Jesus:",
@@ -31817,7 +31817,7 @@
       },
       "name": "Efésios"
     },
-    "fp": {
+    "ph": {
       "chapters": {
         "1": {
           "1": "Paulo e Timóteo, servos de Cristo Jesus, a todos os santos em Cristo Jesus que estão em Filipos, com os bispos e diáconos:",
@@ -32487,7 +32487,7 @@
       },
       "name": "Tito"
     },
-    "fm": {
+    "phm": {
       "chapters": {
         "1": {
           "1": "Paulo, prisioneiro de Cristo Jesus, e o irmão Timóteo, ao amado Filemom, nosso companheiro de trabalho,",
@@ -32853,7 +32853,7 @@
       },
       "name": "Hebreus"
     },
-    "tg": {
+    "jm": {
       "chapters": {
         "1": {
           "1": "Tiago, servo de Deus e do Senhor Jesus Cristo, às doze tribos da Dispersão, saúde.",
@@ -33362,7 +33362,7 @@
       },
       "name": "Judas"
     },
-    "ap": {
+    "re": {
       "chapters": {
         "1": {
           "1": "Revelação de Jesus Cristo, que Deus lhe deu para mostrar aos seus servos as coisas que brevemente devem acontecer; e, enviando-as pelo seu anjo, as notificou a seu servo João;",
