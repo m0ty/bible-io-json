@@ -1,0 +1,97 @@
+Metadata-Version: 2.4
+Name: pysword
+Version: 0.2.8
+Summary: A native Python2/3 reader module for the SWORD Project Bible Modules
+Home-page: https://gitlab.com/tgc-dk/pysword
+Author: Tomas Groth
+Author-email: second@tgc.dk
+License: MIT
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Religion
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Religion
+Classifier: Topic :: Software Development
+Classifier: License :: OSI Approved :: MIT License
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: platform
+Dynamic: summary
+
+.. image:: https://gitlab.com/tgc-dk/pysword/badges/master/build.svg
+   :target: https://gitlab.com/tgc-dk/pysword/pipelines
+.. image:: https://ci.appveyor.com/api/projects/status/7n8848av82arr9xv?svg=true
+   :target: (https://ci.appveyor.com/project/OpenLP/pysword
+
+A native Python reader of the SWORD Project Bible Modules
+
+This project is **not** an official `CrossWire <http://crosswire.org/>`_
+project. It merely provides an alternative way to read the bible modules
+created by CrossWires `SWORD <http://crosswire.org/sword/index.jsp>`_ project.
+
+Features
+--------
+
+-  Read SWORD bibles (not commentaries etc.)
+-  Detection of locally installed bible modules.
+-  Supports all known SWORD module formats (ztext, ztext4, rawtext,
+   rawtext4)
+-  Read from zipped modules, like those available from
+   http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Bibles
+-  Clean text of OSIS, GBF or ThML tags.
+-  Supports both python 2.7 and 3.3+ [*]_ (CI tested with 2.7 to 3.10)
+
+.. [*] pysword makes use of io.open (introduced in python 2.6 and the unicode literal (available in pyhton 2 and
+   reintroduced in python 3.3 - PEP 414)
+
+License
+-------
+
+PySword is and can be distributed under the `MIT license <https://opensource.org/licenses/MIT>`_
+
+Installation
+------------
+
+PySwords source code can be downloaded from PySwords `release list <https://gitlab.com/tgc-dk/pysword/tags>`_,
+but it is also available from `PyPI <https://pypi.python.org/pypi/pysword/>`_
+for install using ``pip``::
+
+    pip install pysword
+
+It also available for `ArchLinux (AUR) <https://aur.archlinux.org/packages/?K=pysword>`_ and
+`Fedora <https://packages.fedoraproject.org/pkgs/python-pysword/python-pysword/>`_ and
+`Debian <https://packages.debian.org/bullseye/python3-pysword>`_.
+
+Run tests
+---------
+
+To run the testsuite, first run the script that download the files used
+for testing, and then use pytest to run the testsuite:
+
+.. code:: sh
+
+    $ python tests/resources/download_bibles.py
+    $ pytest -v tests/
+
+The tests should run and pass using both python 2 and 3.
+
+Using PySword
+-------------
+
+Read the `documentation <https://tgc-dk.gitlab.io/pysword/>`_ for how to use pysword and to see the API docs.
+
+Contributing
+------------
+
+If you want to contribute, you are most welcome to do so!
+Feel free to report issues and create merge request at https://gitlab.com/tgc-dk/pysword
+If you create a merge request please include a test the proves that your code actually works.
